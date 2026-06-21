@@ -1,0 +1,1 @@
+export type { ServiceItem, ServiceCategory } from '@/data/services';

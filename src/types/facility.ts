@@ -1,0 +1,1 @@
+export type { Facility } from '@/data/facilities';
